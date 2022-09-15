@@ -12,7 +12,7 @@
 # https://github.com/tensorflow/tensorflow/blob/master/tensorflow/lite/examples/python/label_image.py
 #
 # I added my own method of drawing boxes and labels using OpenCV.
-
+# ---------------------------------------------------------------------------
 # Import packages
 import os
 import argparse
